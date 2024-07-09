@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Ciao! I'm Valentina. Take al look around to find out about my work.
+Ciao! I'm Valentina. Take a look around to find out about my work.
 
 Blobbing is for PHs
 =======
