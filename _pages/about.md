@@ -9,5 +9,5 @@ redirect_from:
 
 Ciao! I'm Valentina. Take al look around to find out about my work.
 
-Blobbing in for PHs
+Blobbing is for PHs
 =======
