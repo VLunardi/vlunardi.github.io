@@ -7,9 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-Ciao! I'm Valentina. Take a look around to find out about my work.
+Ciao! I'm Valentina. I am a PhD candidate in Indo-European Studies at UCLA, working under the supervision of <a href='https://pies.ucla.edu/person/brent-vine/'>Prof. Brent Vine</a> and <a href='https://davidgoldstein.netlify.app/'>Prof. David Goldstein</a>. My most recent work focuses on the implementation of language technology for the study of semantic change in Latin. Take a look around to find out about my academic pursuits.
 
-Blobbing is for PHs
-=======
-
-I have experience in teaching both Linguistics and Classics undergraduate courses. Since 2019, I have been working both as instructor and as a teaching assistant at UCLA. Details for each of the classes I taught can be found in the Teaching tab.

@@ -2,7 +2,7 @@
 title: "φ-feature Hierarchy and Old Irish Object Pronoun Distribution"
 collection: publications
 permalink: /publication/WeCIEC_32
-excerpt: 'This paper explains the distribution of the “infixed” and suffixed object pronouns in Old Irish in terms of agreement and the hierarchy among φ-features.'
+excerpt: 'This paper explains the distribution of the “infixed” and suffixed object pronouns in Old Irish in terms of agreement and hierarchy among φ-features.'
 date: 2023-01-01
 venue: 'Proceedings of the 32nd Annual UCLA Indo-European Conference'
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
