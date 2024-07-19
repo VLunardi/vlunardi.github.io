@@ -12,7 +12,7 @@ title                    : "Valentina's homepage"
 title_separator          : "-"
 name                     : &name "Valentina Lunardi"
 description              : &description "personal description"
-url                      : https://vlunardi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://valentinalunardi.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "VLunardi/vlunardi.github.io"
 
