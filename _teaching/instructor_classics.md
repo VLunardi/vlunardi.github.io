@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/instructor_classics
 venue: "University of California, Los Angeles"
-date: 2019-01-01
+date: 2021-01-01
 location: "Los Angeles, CA"
 excerpt: 'Look inside for the full list of courses I taught.'
 ---

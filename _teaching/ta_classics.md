@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/ta_classics
 venue: "University of California, Los Angeles"
-date: 2020-01-01
+date: 2022-01-01
 location: "Los Angeles, CA"
 excerpt: 'Look inside for the full list of courses in which I assisted.'
 ---
