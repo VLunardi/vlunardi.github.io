@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/ghent_peregrinatio
 venue: "Latin vulgaire – latin tardif XIV"
-date: 2022-09-22
+date: 2022-09-09
 location: "Universiteit Gent"
 excerpt: 'Certain lexical items of a famous Latin text are brought forward for further study and proof of the lasting impact of Christianity on the Language.'
 ---
