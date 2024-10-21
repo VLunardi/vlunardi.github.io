@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/munich_lvlt15
 venue: "Latin vulgaire – latin tardif XV"
 date: 2024-09-05
-location: "Bayerische Akademie der Wissenshaften"
+location: "Bayerische Akademie der Wissenschaften"
 excerpt: 'Sample results are presented from a static embeddings analysis for the detection of semantic change in Latin, limited to changes triggered by Christianity.'
 ---
 
