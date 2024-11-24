@@ -16,7 +16,7 @@ More broadly, my interests lie in the sociolinguistic and contact phenomena rela
 
 Before coming to UCLA, I earned an MPhil in Classics from the University of Cambridge, where I specialized in Classical and Comparative Philology and Linguistics, and a BASc degree from University College London.
 
-For the upcoming academic year (2024-25), I will be a visiting student in the Department of Digital Humanities at King's College London, where I will learn more about how to employ language technology for historical linguistics.
+This academic year (2024-25), I am enrolled as a visiting student in the Department of Digital Humanities at King's College London, where I am learning more about how to employ language technology for historical linguistics.
 
 Take a look around to find out more!
 
