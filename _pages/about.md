@@ -16,7 +16,6 @@ More broadly, my interests lie in the sociolinguistic and contact phenomena rela
 
 Before coming to UCLA, I earned an MPhil in Classics from the University of Cambridge, where I specialized in Classical and Comparative Philology and Linguistics, and a BASc degree from University College London.
 
-This academic year (2024-25), I am enrolled as a visiting student in the Department of Digital Humanities at King's College London, where I am learning more about how to employ language technology for lexical semantic change detection.
+This academic year (2024-25), I am enrolled as a visiting student in the Department of Digital Humanities at King's College London, where I am learning more about how to employ language technology for lexical semantic change detection under <a href='https://www.kcl.ac.uk/people/barbara-mcgillivray'>Dr. Barbara McGillivray</a>'s supervision.
 
 Take a look around to find out more!
-
