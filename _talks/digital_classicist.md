@@ -6,10 +6,10 @@ permalink: /talks/digital_classicist
 venue: "Digital Classicist London 2025"
 date: 2025-06-20
 location: "Institute of Classical Studies"
-excerpt: ''
+excerpt: 'Static and contextual embeddings methods for Christian Latin semantic changed compared.'
 ---
-Abstract: \\
 
+Abstract:\\
 In recent decades, a variety of quantitative, statistical, and machine learning tools have been developed to analyse digital corpora. Among these, computational methods for detecting semantic change in diachronic corpora have gained increasing attention (see e.g. Tahmasebi, Borin, and Jatowt 2021). This paper explores how word embeddings can be used to trace semantic change in Latin, with a focus on lexical phenomena driven by the spread of Christianity. 
 
 Latin underwent significant lexical transformation under Christianity’s influence, both due to biblical translations from Greek and the need to introduce new religious concepts. This makes Christian Latin a particularly rich sociolect to examine through these innovative methods.
@@ -19,12 +19,11 @@ Building on previous research (Perrone et al. 2021, McGillivray and Nowak 2025),
 
 The results from these models will be compared against each other and against close-reading analysis for a selected set of lexemes. The goals of this study are: (1) evaluate the comparative strengths of static vs. contextual embeddings, (2) determine the extent to which embedding models align with philological evidence, and (3) contribute to broader discussions on integrating digital approaches in Classics and Historical Linguistics.
 
-References: \\
+References:\\
 Bamman, David, and Patrick J. Burns. 2020. “Latin BERT: A Contextual Language Model for Classical Philology.” <i>CoRR</i>
 abs/2009.10053. arXiv: 2009.10053.\\
 McGillivray, Barbara, and Adam Kilgarriff. 2013. “Tools for historical corpus research, and a corpus of Latin.” In <i>New methods
-in historical corpus linguistics</i>, edited by Paul Bennett, Martin Durrell, Silke Scheible, and Richard J. Whitt, 247–
-257. Tübingen: Narr.\\
+in historical corpus linguistics</i>, edited by Paul Bennett, Martin Durrell, Silke Scheible, and Richard J. Whitt, 247–257. Tübingen: Narr.\\
 McGillivray, Barbara, and Krzysztof Nowak. 2025. “Tracing the semantic change of socio-political terms from Classical to
 early Medieval Latin with computational methods.” In <i>Varietate delectamur: Multifarious Approaches to Synchronic
 and Diachronic Variation in Latin. Selected Papers from the 14th International Colloquium on Late and Vulgar Latin
@@ -35,3 +34,5 @@ Tahmasebi, Lars Borin, Adam Jatowt, Yang Xu, and Simon Hengchen, 287–310. Berl
 Tahmasebi, Nina, Lars Borin, and Adam Jatowt. 2021. “Survey of Computational Approaches to Diachronic Conceptual
 Change.” In <i>Computational approaches to semantic change</i>, edited by Nina Tahmasebi, Lars Borin, Adam Jatowt, Yang
 Xu, and Simon Hengchen, 1–91. Berlin: Language Science Press.
+
+<a href='http://vlunardi.github.io/files/digital_classicist.pdf'>Download slides</a>
