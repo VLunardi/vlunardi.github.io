@@ -1,12 +1,12 @@
 ---
-title: "Static and contextual emebddings for tracing semantic change: the case of Christian Latin"
+title: "Static and contextual embeddings for tracing semantic change: the case of Christian Latin"
 collection: talks
 type: "Talk"
 permalink: /talks/digital_classicist
 venue: "Digital Classicist London 2025"
 date: 2025-06-20
 location: "Institute of Classical Studies"
-excerpt: 'Static and contextual embeddings methods for Christian Latin semantic changed compared.'
+excerpt: 'Static and contextual embedding methods for Christian Latin semantic changed compared.'
 ---
 
 Abstract:\\
