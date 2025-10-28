@@ -26,5 +26,3 @@ Marchesini, S. 2021, I Messapi nel Mediterraneo, «Storia dei Mediterranei» 3: 
 Marchesini, S. <i>forthcoming</i>, A New Analysis of Some Messapic Inscriptions From the Perspective of Frame Semantics. Messapic eipeigrave/ipigrave, in S. Kaszko – A. Cassio (eds.), <i>Multilingualism and Minority Languages in Ancient Europe. MuMiL-EU Final Congress, Roma, 26-27 June 2019.</i>\\
 Matzinger, J. 2019, <i>Messapisch</i>, Wiesbaden: Reichert.\\
 MLM = de Simone, C. & Marchesini, S. 2002, <i>Monumenta Linguae Messapicae</i>, Wiesbaden: Reichert.
-
-<a href='http://vlunardi.github.io/files/Messapic_Chicago.pdf'>Download slides</a>
