@@ -24,9 +24,9 @@ author:
   avatar           : "profile_pic_2.jpg"
   name             : "Valentina Lunardi"
   pronouns         : "she/her"  
-  bio              : "PhD candidate in the <a style='color: black;' href='https://pies.ucla.edu/'>Program in Indo-European Studies</a>"
-  location         : "Los Angeles, CA"
-  employer         : "UCLA"
+  bio              : "PhD in <a style='color: black;' href='https://pies.ucla.edu/'>Indo-European Studies</a> from UCLA"
+  location         : "Ghent, Belgium"
+  employer         : "Universiteit Gent"
   uri              : # URL
   email            : "vlunardi@g.ucla.edu" 
 
